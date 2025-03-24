@@ -1,2 +1,2 @@
-use python -m streamlit run app.py in your local system
+use **python -m streamlit run app.py** in your local system
 
